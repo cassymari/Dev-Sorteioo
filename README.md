@@ -13,11 +13,14 @@ O projeto foi desenvolvido para praticar JavaScript e manipulação do DOM, cria
 
 📸 Demonstração
 
+🔗 Acesse o projeto online
+https://cassymari.github.io/Dev-Sorteioo/
+
 
 ![Preview do Projeto](./assets/sorteio.jpeg)
 
----
 
+---
 🚀 Funcionalidades
 
 🎲 Sorteio de números aleatórios<br>
