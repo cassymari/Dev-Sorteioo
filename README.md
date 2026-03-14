@@ -13,7 +13,6 @@ O projeto foi desenvolvido para praticar JavaScript e manipulação do DOM, cria
 
 📸 Demonstração
 
-Adicione aqui uma imagem do projeto funcionando.
 
 ![Preview do Projeto](./assets/sorteio.jpeg)
 
