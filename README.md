@@ -20,20 +20,20 @@ O projeto foi desenvolvido para praticar JavaScript e manipulação do DOM, cria
 
 🚀 Funcionalidades
 
-🎲 Sorteio de números aleatórios
-🔢 Definir número mínimo e máximo
-⚡ Resultado instantâneo
-🎨 Interface simples e intuitiva
+🎲 Sorteio de números aleatórios<br>
+🔢 Definir número mínimo e máximo<br>
+⚡ Resultado instantâneo<br>
+🎨 Interface simples e intuitiva<br>
 
 ---
 
 🛠️ Tecnologias Utilizadas
 
-HTML5 → Estrutura da aplicação
+HTML5 → Estrutura da aplicação<br>
 
-CSS3 → Estilização da interface
+CSS3 → Estilização da interface<br>
 
-JavaScript → Lógica do sorteio
+JavaScript → Lógica do sorteio<br>
 
 📂 Estrutura do Projeto
 dev-sorteio/<br>
